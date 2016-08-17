@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Northmansbrew]]></title>
         <description><![CDATA[Northmansbrew]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/northmansbrew/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Wed, 17 Aug 2016 21:55:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/northmansbrew/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Ars VR headset showdown-Oculus Rift vs. HTC Vive]]></title>
+            <description><![CDATA[<article><h1>The Ars VR headset showdown-Oculus Rift vs. HTC Vive</h1><p>In our original reviews of the Oculus Rift and the HTC Vive, we tried very hard to examine these virtual reality systems on their own merits without constant comparisons to the competition. But no product exists in a vacuum. After years of buildup, we're now faced with two competitive, PC-tethered VR headsets hitting the market right next to each other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a473611978ca4931a0d74678d9cd4a6eaafdb8a9.jpg"></article>]]></description>
+            <link>http://arstechnica.com/gaming/2016/04/the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive/</link>
+            <guid isPermaLink="false">2c4bb3c2-76c6-489a-a541-fb3f79ab8350</guid>
+            <pubDate>Wed, 17 Aug 2016 21:55:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How A Man's Fitbit Got Him The Medical Care He Needed]]></title>
+            <description><![CDATA[<article><h1>How A Man's Fitbit Got Him The Medical Care He Needed</h1><p>On Jan. 5, a man checked into a hospital's emergency room in Camden, New Jersey. Because his heart was beating irregularly, doctors suspected he had atrial fibrillation, the most common type of arrhythmia, which can increase the risk of stroke. But to decide how to treat him, they needed to know exactly how long his heart had been acting up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2540bffcfc76dfb2a5e2975d8809099dcd0b592c.jpg"></article>]]></description>
+            <link>http://www.buzzfeed.com/stephaniemlee/fitbit-in-the-hospital#.hpzkQq9bY</link>
+            <guid isPermaLink="false">0a2a78e0-c2df-4097-9464-f5223a99dbf8</guid>
+            <pubDate>Wed, 17 Aug 2016 21:55:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Visit Grand Teton in this 8K Timelapse]]></title>
             <description><![CDATA[<article><h1>Visit Grand Teton in this 8K Timelapse</h1><p>In 2014, brother filmmakers Will and Jim Pattiz launched their More Than Just Parks project, an ambitious effort to celebrate America's 59 National Parks by creating a visual experience at each one. Their latest film showcases Grand Teton National Park in Wyoming in 8K resolution.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2579c13e2208f9afc6f4c1929d0f514c/noop.jpg?input=http%3A%2F%2Fpetapixel.com%2Fassets%2Fuploads%2F2016%2F07%2Fgrandtetonfeat.jpg"></article>]]></description>

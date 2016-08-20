@@ -1,9 +1,5 @@
-name: Northmansbrew
 layout_spectrum: 0.6379877004297432
 typography_spectrum: 0.09214252822116509
-opengraph:
-  type: ''
-  appId: ''
 color:
   brandColors:
     - '#468966'
@@ -15,6 +11,12 @@ color:
   lightness: 0.27556701733972033
   saturation: 0.14921722904258994
   rhythmicContrast: 0.05884450818552056
+coverPrefs:
+  filter: false
+name: Northmansbrew
+opengraph:
+  type: ''
+  appId: ''
 title: '"It''s what the Vikings drank!"'
 author:
   name: Thomas

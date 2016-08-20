@@ -1,20 +1,20 @@
-name: Northmansbrew
-layout_spectrum: 0.6379877004297432
+layout_spectrum: 0.26018660445697606
 typography_spectrum: 0.09214252822116509
+color:
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  brandStrength: 0.016074388520792127
+  lightness: 0.768692217534408
+  saturation: 0.5214702554512769
+  rhythmicContrast: 0.2996392725035548
+name: Northmansbrew
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-  brandStrength: 0.7009119091158291
-  lightness: 0.27556701733972033
-  saturation: 0.14921722904258994
-  rhythmicContrast: 0.05884450818552056
 title: '"It''s what the Vikings drank!"'
 author:
   name: Thomas
